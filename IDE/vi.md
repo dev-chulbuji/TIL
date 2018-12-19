@@ -54,7 +54,7 @@ N - search for previous instance of string
 
 ---
 
-### replcae
+### replace
 :s/pattern/string/flags - 해당 줄에 pattern에 맞는 단어를 string으로 변경
 :%s/pattern/string/flags - 전체 줄에 pattern에 맞는 단어를 string으로 변경 
 * flags :: /g , /c - c는 confirm
