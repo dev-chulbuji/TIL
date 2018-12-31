@@ -11,3 +11,4 @@
 [18_12_26 :: 하는 일 그리고 고민, 생각](/Today/18_12_26.md)  
 [18_12_28 :: package.json분리 & 리눅스 명령어](/Today/18_12_28.md)  
 [18_12_30 :: terraform](/Today/18_12_30.md)  
+[18_12_31 :: logstash & jetbrain live template](/Today/18_12_31.md)  
