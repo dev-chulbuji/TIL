@@ -4,6 +4,8 @@
 --- 
 
 ## Today TIL
+[19_01_09 :: kubernetes & ubuntu](/Today/19_01_08.md)
+[19_01_08 :: bash & tdd; information hiding](/Today/19_01_08.md)
 [19_01_07 :: nestjs framework skeleton & 183 project start!](/Today/19_01_07.md)
 [19_01_03 :: logstash filter](/Today/19_01_03.md)
 
