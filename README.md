@@ -4,6 +4,7 @@
 --- 
 
 ## Today TIL
+[19_01_11 :: jwt & OAuth & typescript](/Today/19_01_11.md)  
 [19_01_10 :: alpine & aws & awskrug 소모임](/Today/19_01_10.md)  
 [19_01_09 :: kubernetes & ubuntu](/Today/19_01_09.md)  
 [19_01_08 :: bash & tdd; information hiding](/Today/19_01_08.md)  
