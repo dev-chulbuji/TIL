@@ -4,7 +4,7 @@
 --- 
 
 ## Today TIL
-[19_01_14 :: waf & s3 select & kinesis firehorse](/Today/19_01_13.md)  
+[19_01_14 :: waf & s3 select & kinesis firehorse](/Today/19_01_14.md)  
 [19_01_13 :: vpc](/Today/19_01_13.md)  
 [19_01_11 :: jwt & OAuth & typescript](/Today/19_01_11.md)  
 [19_01_10 :: alpine & aws & awskrug 소모임](/Today/19_01_10.md)  
