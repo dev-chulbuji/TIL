@@ -1,9 +1,14 @@
 # TIL
-[vi 단축키](/IDE/vi.md)
+[vi 단축키](/IDE/vi.md)  
+### AWS  
+### Kubernetes  
+### Typescript  
+### Trouble shooting
 
 --- 
 
 ## Today TIL
+[19_01_15 :: ...](/Today/19_01_15.md)  
 [19_01_14 :: waf & s3 select & kinesis firehorse](/Today/19_01_14.md)  
 [19_01_13 :: vpc](/Today/19_01_13.md)  
 [19_01_11 :: jwt & OAuth & typescript](/Today/19_01_11.md)  
