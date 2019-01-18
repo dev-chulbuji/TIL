@@ -5,9 +5,13 @@
 ### Typescript  
 ### Trouble shooting
 
+### Script
+- [k8s node ssh 접속 script](/script/connect_k8s_node.sh)  
+
 --- 
 
 ## Today TIL
+[19_01_17 :: nestjs & typeorm & bash script](/Today/19_01_17.md)  
 [19_01_16 :: nestjw get req ip & code review process](/Today/19_01_16.md)  
 [19_01_15 :: postgreSQL describe table](/Today/19_01_15.md)  
 [19_01_14 :: waf & s3 select & kinesis firehorse](/Today/19_01_14.md)  
