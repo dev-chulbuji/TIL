@@ -8,9 +8,13 @@
 ### Script
 - [k8s node ssh 접속 script](/script/connect_k8s_node.sh)  
 
+### linux command
+- [commnad](/Linux/command.md)  
+
 --- 
 
 ## Today TIL
+[19_01_19 :: SPOF & linux & ssh](/Today/19_01_19.md)  
 [19_01_18 :: nestjs authentication & typeorm custom repository](/Today/19_01_18.md)  
 [19_01_17 :: nestjs & typeorm & bash script](/Today/19_01_17.md)  
 [19_01_16 :: nestjw get req ip & code review process](/Today/19_01_16.md)  
