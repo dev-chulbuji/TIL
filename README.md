@@ -14,6 +14,7 @@
 --- 
 
 ## Today TIL
+[19_01_20 :: aws ec2 instance type & vpc acl & terraform provisioner](/Today/19_01_20.md)  
 [19_01_19 :: SPOF & linux & ssh](/Today/19_01_19.md)  
 [19_01_18 :: nestjs authentication & typeorm custom repository](/Today/19_01_18.md)  
 [19_01_17 :: nestjs & typeorm & bash script](/Today/19_01_17.md)  
