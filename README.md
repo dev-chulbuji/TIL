@@ -14,6 +14,7 @@
 --- 
 
 ## Today TIL
+[19_01_24 :: CPU steal time & re:invent 2018 & aws](/Today/19_01_24.md)  
 [19_01_22 :: hypervisor & docker & linux tcp 관련 kernel parameter](/Today/19_01_22.md)  
 [19_01_20 :: aws ec2 instance type & vpc acl & terraform provisioner](/Today/19_01_20.md)  
 [19_01_19 :: SPOF & linux & ssh](/Today/19_01_19.md)  
