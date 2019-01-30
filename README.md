@@ -7,6 +7,7 @@
 
 ### Script
 - [k8s node ssh 접속 script](/script/connect_k8s_node.sh)  
+- [실행 duration이 넘는 쿼리 일괄 취소](/script/cancel_too_much_long_query.sh)  
 
 ### linux command
 - [commnad](/Linux/command.md)  
@@ -14,7 +15,7 @@
 --- 
 
 ## Today TIL
-[19_01_29 :: postgresql & rds todo & devops skill set (삼성전자))](/Today/19_01_28.md)  
+[19_01_29 :: postgresql & rds todo & devops skill set (삼성전자)](/Today/19_01_29.md)  
 [19_01_28 :: elasticsearch](/Today/19_01_28.md)  
 [19_01_24 :: CPU steal time & re:invent 2018 & aws](/Today/19_01_24.md)  
 [19_01_22 :: hypervisor & docker & linux tcp 관련 kernel parameter](/Today/19_01_22.md)  
