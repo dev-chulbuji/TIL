@@ -15,6 +15,7 @@
 --- 
 
 ## Today TIL
+[19_01_31 :: aws 301 seminar ECS & Fargate & EKS(kubernetes) & Service mesh](/Today/19_01_31.md)  
 [19_01_30 :: ml 세미나 & NMT(Transformer, BERT) & back-end api server & sql query tuning](/Today/19_01_30.md)  
 [19_01_29 :: postgresql & rds todo & devops skill set (삼성전자)](/Today/19_01_29.md)  
 [19_01_28 :: elasticsearch](/Today/19_01_28.md)  
