@@ -15,7 +15,8 @@
 --- 
 
 ## Today TIL
-[19_02_10 :: article archieve](/Today/19_02_09.md)  
+[19_02_18 :: deep learning classification](/Today/19_02_18.md)  
+[19_02_10 :: article archieve](/Today/19_02_10.md)  
 [19_02_09 :: k8s: PodPreset](/Today/19_02_09.md)  
 [19_02_08 :: node stream](/Today/19_02_08.md)  
 [19_02_07 :: infra layer에서 infra 보호하기 #todo](/Today/19_02_07.md)  
