@@ -15,6 +15,7 @@
 --- 
 
 ## Today TIL
+[19_03_07 :: eks & beanstalk 후기 & CNCF korea seminar](/Today/19_03_07.md)  
 [19_03_06 :: how to make serverless plugin](/Today/19_03_06.md)  
 [19_03_05 :: nextjs fundamental](/Today/19_03_05.md)  
 [19_02_27 :: helm fundamental](/Today/19_02_28.md)  
