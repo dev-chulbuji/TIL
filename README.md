@@ -2,6 +2,10 @@
 [vi 단축키](/IDE/vi.md)  
 ### AWS  
 ### Kubernetes  
+- [kubernetes component](https://chulbuji.gq/kubernetes-component/)
+- [kubernetes resource](https://chulbuji.gq/kubernetes-resource/)
+### Terraform
+- [Atlantis](https://chulbuji.gq/terraform-atlantis/)
 ### Typescript  
 ### Trouble shooting
 
@@ -15,6 +19,7 @@
 --- 
 
 ## Today TIL
+[19_03_08 :: atlantis](/Today/19_03_08.md)  
 [19_03_07 :: eks & beanstalk 후기 & CNCF korea seminar](/Today/19_03_07.md)  
 [19_03_06 :: how to make serverless plugin](/Today/19_03_06.md)  
 [19_03_05 :: nextjs fundamental](/Today/19_03_05.md)  
