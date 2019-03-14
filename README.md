@@ -16,9 +16,10 @@
 ### linux command
 - [commnad](/Linux/command.md)  
 
---- 
+---
 
 ## Today TIL
+[19_03_12 :: awskrug 판교소모임](/Today/19_03_12.md)  
 [19_03_11 :: sh option & eks](/Today/19_03_11.md)  
 [19_03_08 :: atlantis](/Today/19_03_08.md)  
 [19_03_07 :: eks & beanstalk 후기 & CNCF korea seminar](/Today/19_03_07.md)  
