@@ -6,6 +6,7 @@
 - [kubernetes resource](https://chulbuji.gq/kubernetes-resource/)
 ### Terraform
 - [Atlantis](https://chulbuji.gq/terraform-atlantis/)
+- [workspace](https://chulbuji.gq/terraform-workspace/)
 ### Typescript  
 ### Trouble shooting
 
