@@ -19,6 +19,7 @@
 ---
 
 ## Today TIL
+[19_03_12 :: eks iam & jenkin local in mac](/Today/19_03_13.md)  
 [19_03_12 :: awskrug 판교소모임](/Today/19_03_12.md)  
 [19_03_11 :: sh option & eks](/Today/19_03_11.md)  
 [19_03_08 :: atlantis](/Today/19_03_08.md)  
