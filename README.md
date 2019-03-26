@@ -20,6 +20,7 @@
 ---
 
 ## Today TIL
+[19_03_25 :: kubernetes component deep dive](/Today/19_03_25.md)  
 [19_03_18 :: helm RBAC & kubernetes study](/Today/19_03_18.md)  
 [19_03_13 :: eks iam & jenkin local in mac](/Today/19_03_13.md)  
 [19_03_12 :: awskrug 판교소모임](/Today/19_03_12.md)  
