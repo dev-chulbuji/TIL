@@ -20,7 +20,8 @@
 ---
 
 ## Today TIL
-[19_03_28 :: kuberenetes securing cluster nodes and the network](/Today/19_03_28.md)  
+[19_03_31 :: kuberenetes securing cluster nodes and the network :: cluster manager편](/Today/19_03_31.md)  
+[19_03_28 :: kuberenetes securing cluster nodes and the network :: application 개발자편](/Today/19_03_28.md)  
 [19_03_25 :: kubernetes component deep dive](/Today/19_03_25.md)  
 [19_03_18 :: helm RBAC & kubernetes study](/Today/19_03_18.md)  
 [19_03_15 :: helm & ideal team](/Today/19_03_15.md)  
