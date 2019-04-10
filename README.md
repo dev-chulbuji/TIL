@@ -20,6 +20,9 @@
 ---
 
 ## Today TIL
+[19_04_09 :: install kubernetes by kubeadm](/Today/19_04_09.md)  
+[19_04_08 :: vagrant & private certificate](/Today/19_04_08.md)  
+[19_04_02 :: LDAP & SAML & SSL types](/Today/19_04_02.md)  
 [19_03_31 :: kuberenetes securing cluster nodes and the network :: cluster manager편](/Today/19_03_31.md)  
 [19_03_28 :: kuberenetes securing cluster nodes and the network :: application 개발자편](/Today/19_03_28.md)  
 [19_03_25 :: kubernetes component deep dive](/Today/19_03_25.md)  
