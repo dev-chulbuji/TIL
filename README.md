@@ -20,6 +20,7 @@
 ---
 
 ## Today TIL
+[19_04_10 :: install kubernetes by vagrant + ansible](/Today/19_04_10.md)  
 [19_04_09 :: install kubernetes by kubeadm](/Today/19_04_09.md)  
 [19_04_08 :: vagrant & private certificate](/Today/19_04_08.md)  
 [19_04_02 :: LDAP & SAML & SSL types](/Today/19_04_02.md)  
