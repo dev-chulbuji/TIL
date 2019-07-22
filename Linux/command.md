@@ -17,4 +17,9 @@ $ kill -9 {process id} // process 종료
 
 // listen중인 port 확인
 $ netstat -antp
+
+// check linux version
+$ cat /etc/*-release
+
+
 ```
