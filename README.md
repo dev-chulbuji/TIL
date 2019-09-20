@@ -1,23 +1,4 @@
 # TIL
-[vi 단축키](/IDE/vi.md)  
-### AWS  
-### Kubernetes  
-- [kubernetes component](https://chulbuji.gq/kubernetes-component/)
-- [kubernetes resource](https://chulbuji.gq/kubernetes-resource/)
-### Terraform
-- [Atlantis](https://chulbuji.gq/terraform-atlantis/)
-- [workspace](https://chulbuji.gq/terraform-workspace/)
-### Typescript  
-### Trouble shooting
-
-### Script
-- [k8s node ssh 접속 script](/script/connect_k8s_node.sh)  
-- [실행 duration이 넘는 쿼리 일괄 취소](/script/cancel_too_much_long_query.sh)  
-
-### linux command
-- [commnad](/Linux/command.md)  
-
----
 
 ## Today TIL
 [19_09_18 :: ansible vault](/Today/09_18.md)  
@@ -93,3 +74,22 @@
 [18_12_30 :: terraform](/Today/18_12_30.md)  
 [18_12_31 :: logstash & jetbrain live template](/Today/18_12_31.md)
   
+---
+
+[vi 단축키](/IDE/vi.md)  
+### AWS  
+### Kubernetes  
+- [kubernetes component](https://chulbuji.gq/kubernetes-component/)
+- [kubernetes resource](https://chulbuji.gq/kubernetes-resource/)
+### Terraform
+- [Atlantis](https://chulbuji.gq/terraform-atlantis/)
+- [workspace](https://chulbuji.gq/terraform-workspace/)
+### Typescript  
+### Trouble shooting
+
+### Script
+- [k8s node ssh 접속 script](/script/connect_k8s_node.sh)  
+- [실행 duration이 넘는 쿼리 일괄 취소](/script/cancel_too_much_long_query.sh)  
+
+### linux command
+- [commnad](/Linux/command.md)  
