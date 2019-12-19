@@ -1,26 +1,25 @@
 # TIL
-[vi 단축키](/IDE/vi.md)  
-### AWS  
-### Kubernetes  
-- [kubernetes component](https://chulbuji.gq/kubernetes-component/)
-- [kubernetes resource](https://chulbuji.gq/kubernetes-resource/)
-### Terraform
-- [Atlantis](https://chulbuji.gq/terraform-atlantis/)
-- [workspace](https://chulbuji.gq/terraform-workspace/)
-### Typescript  
-### Trouble shooting
-
-### Script
-- [k8s node ssh 접속 script](/script/connect_k8s_node.sh)  
-- [실행 duration이 넘는 쿼리 일괄 취소](/script/cancel_too_much_long_query.sh)  
-
-### linux command
-- [commnad](/Linux/command.md)  
-
----
 
 ## Today TIL
+<<<<<<< HEAD
 [19_04_15 :: helm private repository](/Today/19_04_15.md)  
+=======
+[19_09_18 :: ansible vault](/Today/09_18.md)  
+[19_09_06 :: kubelet](/Today/09_06.md)  
+[19_09_01 :: EKS networking & vpc-cni](/Today/09_01.md)  
+[19_08_29 :: docker LXC](/Today/19_08_29.md)  
+[19_08_21 :: python & mitmproxy](/Today/19_08_21.md)  
+[19_08_03 :: prometheus](/Today/19_08_03.md)  
+[19_07_22 :: descheduler](/Today/19_07_22.md)  
+[19_07_18 :: openIntra day](/Today/19_07_18.md)  
+[19_06_27 :: kubernetes HPA](/Today/19_06_27.md)  
+[19_05_15 :: helm](/Today/19_05_15.md)  
+[19_05_12 :: openssl](/Today/19_05_12.md)  
+[19_04_22 :: ubuntu & kubernetes](/Today/19_04_22.md)  
+[19_04_18 :: aws summit 2019](/Today/19_04_18.md)  
+[19_04_17 :: hybrid cloud](/Today/19_04_17.md)  
+[19_04_16 :: vagrant & key pair](/Today/19_04_16.md)  
+>>>>>>> dec26f8e4452dd087c6a3d8022045311ed6e17cf
 [19_04_12 :: todo & docker save](/Today/19_04_12.md)  
 [19_04_11 :: helm private repository](/Today/19_04_11.md)  
 [19_04_10 :: install kubernetes by vagrant + ansible](/Today/19_04_10.md)  
@@ -79,3 +78,22 @@
 [18_12_30 :: terraform](/Today/18_12_30.md)  
 [18_12_31 :: logstash & jetbrain live template](/Today/18_12_31.md)
   
+---
+
+[vi 단축키](/IDE/vi.md)  
+### AWS  
+### Kubernetes  
+- [kubernetes component](https://chulbuji.gq/kubernetes-component/)
+- [kubernetes resource](https://chulbuji.gq/kubernetes-resource/)
+### Terraform
+- [Atlantis](https://chulbuji.gq/terraform-atlantis/)
+- [workspace](https://chulbuji.gq/terraform-workspace/)
+### Typescript  
+### Trouble shooting
+
+### Script
+- [k8s node ssh 접속 script](/script/connect_k8s_node.sh)  
+- [실행 duration이 넘는 쿼리 일괄 취소](/script/cancel_too_much_long_query.sh)  
+
+### linux command
+- [commnad](/Linux/command.md)  
